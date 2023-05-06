@@ -1,0 +1,18 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: README
+parts:
+- caption: Tutorials
+  chapters:
+  - file: tutorials/tutorial.md
+- caption: Guides
+  chapters:
+  - file: guides/guide.md
+- caption: References
+  chapters:
+  - file: references/reference.md
+- caption: Explanations
+  chapters:
+  - file: explanations/explanation.md
