@@ -13,6 +13,8 @@ parts:
 - caption: References
   chapters:
   - file: references/reference.md
+  - file: references/user_documentation.md
+  - file: references/developer_documentation.md
 - caption: Explanations
   chapters:
   - file: explanations/explanation.md
