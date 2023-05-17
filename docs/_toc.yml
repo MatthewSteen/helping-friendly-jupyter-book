@@ -15,6 +15,7 @@ parts:
   - file: references/reference.md
   - file: references/user_documentation.md
   - file: references/developer_documentation.md
+  - file: references/bibliography.md
 - caption: Explanations
   chapters:
   - file: explanations/explanation.md
