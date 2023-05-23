@@ -4,10 +4,10 @@
 
 Consider including the following pages in the References section.
 
-1. User Documentation
-2. Developer Documentation
-3. Code Documentation
-4. [Community Health Files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
+1. Community Health Files
+2. User Documentation
+3. Developer Documentation
+4. Code Documentation
 5. Bibliography
 
 ---
