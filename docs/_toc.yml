@@ -6,16 +6,22 @@ root: README
 parts:
 - caption: Tutorials
   chapters:
-  - file: tutorials/tutorial.md
+  - file: tutorials/tutorials.md
 - caption: Guides
   chapters:
-  - file: guides/guide.md
+  - file: guides/guides.md
+  - file: guides/toc.md
+  - file: guides/code_documentation.md
+  - file: guides/bibliography.md
+  - file: guides/publishing.md
 - caption: References
   chapters:
-  - file: references/reference.md
+  - file: references/references.md
+  - file: references/community_health_files.md
   - file: references/user_documentation.md
   - file: references/developer_documentation.md
+  - file: references/code_documentation/index.rst
   - file: references/bibliography.md
 - caption: Explanations
   chapters:
-  - file: explanations/explanation.md
+  - file: explanations/explanations.md
